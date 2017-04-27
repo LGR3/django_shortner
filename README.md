@@ -5,3 +5,4 @@ a simple, rubystic, django url shortner.
 - virtualenv with -p Python3
 - pip install django==1.11
 - 
+- 
